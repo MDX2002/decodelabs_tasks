@@ -1,0 +1,9 @@
+[submodule "customer-churn-prediction-python"]
+	path = customer-churn-prediction-python
+	url = https://github.com/MDX2002/customer-churn-prediction-python.git
+[submodule "aml-transaction-classifier-python"]
+	path = aml-transaction-classifier-python
+	url = https://github.com/MDX2002/aml-transaction-classifier-python.git
+[submodule "iran-israel-war-defense-stocks-python"]
+	path = iran-israel-war-defense-stocks-python
+	url = https://github.com/MDX2002/iran-israel-war-defense-stocks-python.git
